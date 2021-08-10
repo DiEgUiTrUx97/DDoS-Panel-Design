@@ -1,0 +1,10 @@
+C:\Users\Dieguitrux97\source\repos\DDoS Panel\DDoS Panel\bin\Debug\DDoS Panel.exe.config
+C:\Users\Dieguitrux97\source\repos\DDoS Panel\DDoS Panel\bin\Debug\DDoS Panel.exe
+C:\Users\Dieguitrux97\source\repos\DDoS Panel\DDoS Panel\bin\Debug\DDoS Panel.pdb
+C:\Users\Dieguitrux97\source\repos\DDoS Panel\DDoS Panel\obj\Debug\DDoS Panel.csprojAssemblyReference.cache
+C:\Users\Dieguitrux97\source\repos\DDoS Panel\DDoS Panel\obj\Debug\DDoS_Panel.Form1.resources
+C:\Users\Dieguitrux97\source\repos\DDoS Panel\DDoS Panel\obj\Debug\DDoS_Panel.Properties.Resources.resources
+C:\Users\Dieguitrux97\source\repos\DDoS Panel\DDoS Panel\obj\Debug\DDoS Panel.csproj.GenerateResource.cache
+C:\Users\Dieguitrux97\source\repos\DDoS Panel\DDoS Panel\obj\Debug\DDoS Panel.csproj.CoreCompileInputs.cache
+C:\Users\Dieguitrux97\source\repos\DDoS Panel\DDoS Panel\obj\Debug\DDoS Panel.exe
+C:\Users\Dieguitrux97\source\repos\DDoS Panel\DDoS Panel\obj\Debug\DDoS Panel.pdb
